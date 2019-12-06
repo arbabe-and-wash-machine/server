@@ -1,3 +1,3 @@
-# serv :
+# servers :
 
-base pour nos serveurs.
+our server act in : C
